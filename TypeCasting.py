@@ -1,0 +1,13 @@
+int_from_float = int(3.14)
+float_from_int = float(10)
+string_from_int = str(100)
+list_from_string = list("Hello")
+tuple_from_list = tuple([1, 2, 3, 4, 5])
+set_from_list = set([1, 2, 3, 4, 5])
+
+print(int_from_float)
+print(float_from_int)
+print(string_from_int)
+print(list_from_string)
+print(tuple_from_list)
+print(set_from_list)
